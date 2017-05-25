@@ -1,9 +1,6 @@
 /**
  * Created by Ankit on 5/25/2017.
  */
-/**
- * Created by Ankit on 5/25/2017.
- */
 (function() {
     'use strict';
 
